@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 Lần đầu học HTML
