@@ -18,5 +18,4 @@ Lần đầu học HTML
   <p>Facebook:https://www.facebook.com/m.thuan.13
     <p>Gmail:buiminhthuan09@gmail.com
       <p>Instagram:https://www.instagram.com/minthuanne/
-</body>
-</html>
+
