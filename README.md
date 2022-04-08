@@ -2,7 +2,7 @@
 <html>
 <head>
 <h2 align="center"> &piv;	 Web Của Minh Thuận (BS) &piv;	
-  </head>
+  
 <body>
 
 <h1 align="center"> &#9996;	 Xin chào &#9996;	 </h1>
@@ -48,7 +48,7 @@
          <h4> <label for="username">Bình luận:</h4>
     <input type="text" name="username" id="username">
 
-     </body>
-     </html>
+     
+     
   
      
