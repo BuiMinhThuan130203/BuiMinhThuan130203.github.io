@@ -28,16 +28,15 @@
   <p> Ở dưới nè &#9759;	</p>
 <img src="bsne.jpg" >
   <h4> &#9742;	 Địa chỉ liên hệ &#9742;	 </h4>
-  <p> <a href=https://www.facebook.com/m.thuan.13> Facebook </a> 
-  <p> <a href=buiminhthuan09@gmail.com> Gmail </a> 
+  <p> <a href=https://www.facebook.com/m.thuan.13/> Facebook </a> 
+  <p> <a href=buiminhthuan09@gmail.com/> Gmail </a> 
   <p> <a href=https://www.instagram.com/minthuanne/> Instagram </a> 
-  <p> <a href=0336604571> Số điện thoại </a>
+  <p> <a href=0336604571 </a>
 
  <body>
        <form>
     <label for="username">Bình luận:
     <input type="text" name="username" id="username">
 </form>
-
 </body>
      
