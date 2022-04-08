@@ -1,11 +1,11 @@
 
 <html>
 <head>
-&piv;	 Web Của Minh Thuận (BS) &piv;	
+<h2 align="center"> &piv;	 Web Của Minh Thuận (BS) &piv;	
 </head>
 <body>
 
-<h1> &#9996;	 Xin chào &#9996;	 </h1>
+<h1 align="center"> &#9996;	 Xin chào &#9996;	 </h1>
   <h2>Giới thiệu bản thân</h2>  
 <p>Tôi tên là: Thuận.</p>
   <p>Sinh năm: 2003.</p> 
@@ -39,5 +39,7 @@
        <form>
    <h4> <label for="username">Bình luận:
     <input type="text" name="username" id="username">
+     
+    
   
      
