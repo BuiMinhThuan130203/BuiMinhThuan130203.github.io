@@ -15,8 +15,8 @@
       <th>Sở thích</th>
      <th>Công việc </th>
       <th> Học tập</th>
-   </tr>
    <tr>
+   </tr>
      <td> Du lịch </td>
       <td> Parttime  </td>
      <td> CNTT </td>
