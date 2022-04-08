@@ -50,6 +50,13 @@
             <button type ="button">Gửi</button>
        </form>
   </p>
+  
+  <ul>
+    <h4> Mục lục </h4>
+    <li> Xin Chào </li>
+    <li> Giới thiệu </li>
+    <li> Hình ảnh </li>
+    <li> Địa chỉ </li>
 
      
      
