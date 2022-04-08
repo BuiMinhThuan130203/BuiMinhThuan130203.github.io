@@ -6,20 +6,30 @@
 <body>
 
 <h1 align="center"> &#9996;	 Xin chào &#9996;	 </h1>
-  <h2>Giới thiệu bản thân</h2>  
-<p>Tôi tên là: Thuận.</p>
-  <p>Sinh năm: 2003.</p> 
-  <p>Giới tính:Nam
+  <h2> &#10084;	 Giới thiệu bản thân &#10084;	 </h2>  
+
+  
+  <p>&#160;	&#160;	&#160;	&#160;	</p>
      <table border="1">
    <tr>
+     <th>Tên</th>
+     <th>Tuổi</th>
+     <th>Giới tính</th>
+     <th>Đến từ</th>
+     <th>Địa chỉ</th>
       <th>Sở thích</th>
      <th>Công việc </th>
       <th> Học tập</th>
    <tr>
    </tr>
-     <td> Du lịch </td>
-      <td> Parttime  </td>
-     <td> CNTT </td>
+       <td>Bùi Minh Thuận</td>
+       <td>&#10102;	&#10110;	 Rưỡi<t/d>
+         <td>Nam &#9894;	</td>
+         <td>Cam Ranh</td>
+         <td>Hẻm 33 Hương Lộ Ngọc Hiệp</td>
+     <td> Du lịch &#9992;	 </td>
+      <td> Parttime &#36;	  </td>
+     <td> CNTT &#9997;	 </td>
    </tr>
 </table>
   
