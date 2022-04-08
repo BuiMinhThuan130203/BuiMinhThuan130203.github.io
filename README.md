@@ -10,42 +10,30 @@
 <p>Tôi tên là: Thuận.</p>
   <p>Sinh năm: 2003.</p> 
   <p>Giới tính:Nam
+     <table border="1">
+   <tr>
+      <th>Sở thích</th>
+     <th>Công việc </th>
+      <th> Học tập</th>
+   </tr>
+   <tr>
+     <td> Du lịch </td>
+      <td> Parttime  </td>
+     <td> CNTT </td>
+   </tr>
+   
+</table>
 <body>
   <h3>Hình ảnh bản thân</h3>
   <p> Ở dưới nè &#9759;	</p>
 <img src="bsne.jpg" >
   <h4> &#9742;	 Địa chỉ liên hệ &#9742;	 </h4>
-  <p> <a href>Facebook:https://www.facebook.com/m.thuan.13 /</a> 
-  <p> <a href>Gmail:buiminhthuan09@gmail.com </a> 
-  <p> <a href>Instagram:https://www.instagram.com/minthuanne/ </a> 
+  <p> <a href=https://www.facebook.com/m.thuan.13> Facebook </a> 
+  <p> <a href=buiminhthuan09@gmail.com> Gmail </a> 
+  <p> <a href=https://www.instagram.com/minthuanne/> Instagram </a> 
+  <p> <a href=0336604571> Số điện thoại </a>
 
  <body>
-   <h1 align="center" > Chào mừng đã đến với 3TL </h1>
-   <p align="center" >  &#160;	&#160;	&#160;		
-<img src="https://3tlpa.com/wp-content/uploads/2021/05/3TL-logo-social-share.jpg">
-   <p> Thành viên:</p>
-     <ol>
-       <li>TNH</li>
-       <li>BMT</li>
-       <li>NTH</li>
-   </ol>
-    <table border="1">
-   <tr>
-      <th>Sản phẩm</th>
-     <th>Số lượng</th>
-      <th>Giá thành</th>
-   </tr>
-   <tr>
-     <td> Phần cứng </td>
-      <td> 3 </td>
-     <td> Hợp túi tiền </td>
-   </tr>
-   
-</table>
-   <h3> &#9742;	Địa chỉ liên hệ &#9742;	:
-     <p> <a href>https://www.facebook.com/profile.php?id=100034195372871 </p>
-     <p> <a href>https://www.facebook.com/m.thuan.13 </p>
-     <p> <a href>https://www.facebook.com/hoai2902 </p>
        <form>
     <label for="username">Bình luận:
     <input type="text" name="username" id="username">
