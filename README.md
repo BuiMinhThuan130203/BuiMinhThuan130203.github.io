@@ -45,7 +45,7 @@
       <a href="https://www.instagram.com/minthuanne/" > Instagram  </a> <br>
       <a href>Số điện thoại: 0336604571 </a>
        <form>
-         <h4> <label for="username">Bình luận:</h4>
+         <h4> <label for="username">Bình luận: </h4>
     <input type="text" name="username" id="username">
 
      
