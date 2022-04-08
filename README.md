@@ -39,6 +39,5 @@
        <form>
    <h4> <label for="username">Bình luận:
     <input type="text" name="username" id="username">
-       </form>
-</body>
+  
      
