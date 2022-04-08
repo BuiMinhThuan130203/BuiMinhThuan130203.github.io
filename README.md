@@ -44,9 +44,12 @@
       <a href="buiminhthuan09@gmail.com" >  Gmail  </a> <br>
       <a href="https://www.instagram.com/minthuanne/" > Instagram  </a> <br>
       <a href>Số điện thoại: 0336604571 </a>
-       <form>
-         <h4> <label for="username">Bình luận: 
-    <input type="text" name="username" id="username">
+  <p>
+       <form> 
+       <input type="text" placeholder ="Đóng góp ý kiến để khắc phục"/>
+            <button type ="button">Gửi</button>
+       </form>
+  </p>
 
      
      
