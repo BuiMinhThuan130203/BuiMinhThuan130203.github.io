@@ -15,7 +15,7 @@
   <p> Ở dưới nè &#9759;	</p>
 <img src="bsne.jpg" >
   <h4> &#9742;	 Địa chỉ liên hệ &#9742;	 </h4>
-  <a>Facebook:https://www.facebook.com/m.thuan.13 /</a>
-    <a>Gmail:buiminhthuan09@gmail.com </a>
-      <a>Instagram:https://www.instagram.com/minthuanne/ </a>
+  <br> <a>Facebook:https://www.facebook.com/m.thuan.13 /</a> </br>
+    <br>  <a>Gmail:buiminhthuan09@gmail.com </a> </br>
+     <br> <a>Instagram:https://www.instagram.com/minthuanne/ </a> </br>
 
