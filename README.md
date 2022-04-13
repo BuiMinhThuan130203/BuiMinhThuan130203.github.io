@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<h2 align="center"> &piv;	 Web Của Minh Thuận (BS) &piv;	
+<h2 align="center"> &piv;	 Minh Thuận (BS) &piv;	
   
 <body>
 
@@ -46,7 +46,7 @@
       <a href>Số điện thoại: 0336604571 </a>
   <p>
        <form> 
-       <input type="text" placeholder ="Đóng góp ý kiến để khắc phục"/>
+       <input type="text" placeholder ="Đóng góp ý kiến "/>
             <button type ="button">Gửi</button>
        </form>
   </p>
