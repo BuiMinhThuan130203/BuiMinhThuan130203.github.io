@@ -35,7 +35,7 @@
   
   <h3>Hình ảnh bản thân</h3>
   <p> Ở dưới nè &#9759;	</p>
-<img src="bsne.jpg" >
+<img src="bsne.jpg" title="BSneeee" >
   <h4> &#9742;	 Địa chỉ liên hệ &#9742;	 </h4>
   <p>
 
