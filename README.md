@@ -28,7 +28,7 @@
          <td>Cam Ranh</td>
          <td>Hẻm 33 Hương Lộ Ngọc Hiệp</td>
      <td> Du lịch &#9992;	 </td>
-      <td> Parttime &#36;	  </td>
+      <td> Parttime ⌛	  </td>
      <td> CNTT &#9997;	 </td>
    </tr>
 </table>
@@ -40,10 +40,10 @@
   <p>
 
 </p>
-     <a href="https://www.facebook.com/m.thuan.13 /" > Facebook </a> <br>
-      <a href="buiminhthuan09@gmail.com" >  Gmail  </a> <br>
-      <a href="https://www.instagram.com/minthuanne/" > Instagram  </a> <br>
-      <a href>Số điện thoại: 0336604571 </a>
+     <a href="https://www.facebook.com/m.thuan.13 /" > Facebook </a> <br>  
+      <a href="buiminhthuan09@gmail.com" >  Gmail ✉ </a> <br>
+      <a href="https://www.instagram.com/minthuanne/" > Instagram  </a> <br>  
+      <a href>Số điện thoại: 0336604571 ✆ </a>
   <p>
        <form> 
        <input type="text" placeholder ="Đóng góp ý kiến "/>
@@ -52,11 +52,18 @@
   </p>
   
   <ul>
-    <h4> Mục lục </h4>
+    <h4>☢ Mục lục ☢</h4>
     <li> Xin Chào </li>
     <li> Giới thiệu </li>
     <li> Hình ảnh </li>
     <li> Địa chỉ </li>
+
+    
+    </head>
+    <body>
+        <marquee direction="right"><font color='# 00BFFF
+'><h1>💛Tạm Biệt Và Hẹn Gặp Lại💛<h1></marquee>
+
 
      
      
