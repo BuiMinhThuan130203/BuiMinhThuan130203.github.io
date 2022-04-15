@@ -57,6 +57,7 @@
     <li> Giới thiệu </li>
     <li> Hình ảnh </li>
     <li> Địa chỉ </li>
+    <li> Góp ý </li>
 
     
     
