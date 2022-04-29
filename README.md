@@ -1,72 +1,84 @@
-
-<html>
+		<!DOCTYPE html>
+<html lang="vi">
 <head>
-<h2 align="center"> &piv;	 Minh Thuận (BS) &piv;	
-  
-<body>
-
-<h1 align="center"> &#9996;	 &#88;	&#73;	&#78;	 &#67;	&#72;	&#192;	&#79;	 &#9996;	 </h1>
-  <h2> &#10084;	 Giới thiệu bản thân &#10084;	 </h2>  
-
-  
-  <p>&#160;	&#160;	&#160;	&#160;	</p>
-     <table border="1">
-   <tr>
-     <th>Tên</th>
-     <th>Tuổi</th>
-     <th>Giới tính</th>
-     <th>Đến từ</th>
-     <th>Địa chỉ</th>
-      <th>Sở thích</th>
-     <th>Công việc </th>
-      <th> Học tập</th>
-   </tr>
-   <tr>
-       <td>Bùi Minh Thuận</td>
-       <td>&#10102;	&#10110;	 Rưỡi</td>
-         <td>Nam &#9894;	</td>
-         <td>Cam Ranh</td>
-         <td>Hẻm 33 Hương Lộ Ngọc Hiệp</td>
-     <td> Du lịch &#9992;	 </td>
-      <td> Parttime ⌛	  </td>
-     <td> CNTT &#9997;	 </td>
-   </tr>
-</table>
-  
-  <h3>Hình ảnh bản thân</h3>
-  <p> Ở dưới nè &#9759;	</p>
-<img src="bsne.jpg" title="BSNEEEE" >
-  <h4> &#9742;	 Địa chỉ liên hệ &#9742;	 </h4>
-  <p>
-
-</p>
-     <a href="https://www.facebook.com/m.thuan.13 /" > Facebook </a> <br>  
-      <a href="buiminhthuan09@gmail.com" >  Gmail ✉ </a> <br>
-      <a href="https://www.instagram.com/minthuanne/" > Instagram  </a> <br>  
-      <a href>Số điện thoại: 0336604571 ✆ </a>
-  <p>
-       <form> 
-       <input type="text" placeholder ="Đóng góp ý kiến "/>
-            <button type ="button">Gửi</button>
+	<meta charset="utf-8">
+  <title>
+	   BUI MINH THUAN |BS|
+	</title>
+	<link rel="shortcut icon" type="image/png" href="https://png.pngtree.com/templates/sm/20180621/sm_5b2b6b1f1224c.jpg"/>
+ <style>
+   #t{
+     background-color:black;
+   }
+    #y{
+     background-color:#FF0000;
+   }
+   body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+ 
+.topnav a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+ 
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+ 
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}</style>
+</head>
+<body link="#000" alink="#017bf5" vlink="#000">
+	<h3 align="center">
+	<br><font  face="Lato" size="6"><img src="https://png.pngtree.com/templates/sm/20180621/sm_5b2b6b1f1224c.jpg"></font></br>
+		<div class="topnav"><font face="cinzel" size="6">
+			<a  href="https://buiminhthuan130203.github.io/bsne.html"style="text-decoration:none">TRANG CHỦ</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://buiminhthuan130203.github.io/thongtin.html">THÔNG TIN</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://buiminhthuan130203.github.io/lienhe.html">LIÊN HỆ</a>&nbsp;&nbsp;&nbsp;&nbsp;	
+			<a href="https://buiminhthuan130203.github.io/bsne.jpg"style="text-decoration:none">HÌNH ẢNH</a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://buiminhthuan130203.github.io/tatca.html"style="text-decoration:none">TỔNG QUÁT</a>
+      </font></div>
+	</h3>
+	<br />
+	<h1 align="center">
+		<font face="Lato" color="#017bf5" size="7">
+			BÙI MINH THUẬN (BS)
+		</font>
+	</h1>
+  <h2 align="center">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+<div class="box">
+<form class="sbox" action="/search" method="get">
+<input class="stext" type="text" name="q" placeholder="Tìm kiếm bài viết...">
+<a class="sbutton" type="submit" href="javascript:void(0);">
+<i class="fa fa-search"></i>
+</a>
+</form>
+</div>
+</form>
        </form>
-  </p>
-  
-  <ul>
-    <h4>☢ Mục lục ☢</h4>
-    <li> Xin Chào </li>
-    <li> Giới thiệu </li>
-    <li> Hình ảnh </li>
-    <li> Địa chỉ </li>
-    <li> Góp ý </li>
+  </h2>
+	<h3 align="center"><br />
+		<font face="Lato" color="#000" size="5">
+			XIN CHÀO MỌI NGƯỜI
+		</font>
+	</h3>
+	
+</body>
+</html>
 
-    
-    
-    <body>
-        <marquee direction="right"><font color='# 00BFFF
-'><h1>💛Tạm Biệt Và Hẹn Gặp Lại💛<h1>
-
-
-     
-     
   
      
