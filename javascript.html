@@ -1,0 +1,87 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+           body {
+    background-image: url('https://i1-dulich.vnecdn.net/2020/11/10/1-Mot-som-mua-dong-Xa-Xuan-Tho-Da-Lat.jpg?w=1200&h=0&q=100&dpr=2&fit=crop&s=jAGikdIOAl4gwoLQSVFNRQ');
+  }
+ 
+            * {
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+            }
+            section {
+                display: flex;
+                justify-content: center;
+            }
+            .container {
+                display: flex;
+                flex-flow: column;
+                justify-content: center;
+                align-items: center;
+                width: 40rem;
+                padding: 1em 0;
+                background: ;
+            }
+            #demo {
+                display: grid;
+                place-items: center;
+                background: rgb(128,128,128);
+                width: 19rem;
+                height: 15rem;
+                margin-top: 1em;
+                margin-bottom: 1em;
+                font-weight: bold;
+                border-radius: 30px;
+            }
+            button {
+                width: 6rem;
+                padding: 1em 1em;
+            }
+        </style>
+    </head>
+    <body>
+        <section>
+            <div class="container">
+                <h1>Nhấp chuột vào ô phía dưới</h1>
+                <div id="demo"></div>
+                <div class="button">
+                    <button class="print">Nhấp</button>
+                    <button class="total">Nhấp</button>
+                    <button class="total-even">Nhấp</button>
+                </div>
+            </div>
+        </section>
+        
+    </body>
+    <script>
+        document.querySelector('.print').addEventListener('click', print);
+        function print() {
+            document.getElementById('demo').innerText = 'Xin Chào';
+        };
+
+
+        document.querySelector('.total').addEventListener('click', total);
+        function total() {
+            let total = 0;
+            for (let i = 1; i <= 10; i++) {
+                total += i;
+            };
+            document.getElementById('demo').innerText = `Tổng từ 1-10: ${total}`;
+        };
+
+
+        document.querySelector('.total-even').addEventListener('click', totalEvenNum);
+        function totalEvenNum() {
+            let total = 0;
+            for (let i = 1; i <= 10; i++) {
+                if (i % 2 === 0) {
+                    total += i;
+                };
+            };
+            document.getElementById('demo').innerText = `Tổng từ 1-10: ${total}`;
+        };
+    </script>
+</html>
