@@ -15,7 +15,7 @@ body {
    background: #fff;
    color: 333;
 }
-@media all and (max-width: 320px) {
+@media (max-width: 320px) {
    body {
       background: #e7e7e7;
    }
@@ -25,20 +25,20 @@ body {
    background: #fff;
    color: 333;
 }
-@media all and (max-width: 480px) {
+@media (max-width: 480px) {
 }
-@media all and (max-width: 1024px) {
+@media (max-width: 1024px) {
 }
-@media all and (min-width: 320px) {
+@media (min-width: 320px) {
 body {
    background: #e7e7e7;
    color: #333333;
 }
 }
-@media all and (min-width: 320px) {…<span style="line-height: 1.5;">}</span>
-@media all and (min-width: 600px) {…}
-@media all and (min-width: 1024px) {…}
-@media all and (min-width: 1280px) {…}
+@media (min-width: 320px) {…<span style="line-height: 1.5;">}</span>
+@media (min-width: 600px) {…}
+@media (min-width: 1024px) {…}
+@media (min-width: 1280px) {…}
 }
 <link rel="stylesheet" type="text/CSS" href="link_to_file/responsive.CSS" />
 nav{
