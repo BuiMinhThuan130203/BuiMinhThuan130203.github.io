@@ -11,6 +11,27 @@
 	background-size: cover;
 	background-position: center;
 }
+{
+/******** For mobile device ********/
+/******************************/
+/*---- Responsive base screen witdh ------- */
+/* width - 30 */
+/* Tablet Devices Resizing */
+@media screen and (max-width: 1024px) and  (min-width: 970px){
+}
+@media screen and  (max-width: 970px){
+}
+@media screen and  (max-width: 870px)  and (min-width:750px){
+}
+@media screen and (max-width:750px) and (min-width:680px){
+}
+@media screen and (min-width:320px) and (max-width: 480px) {
+}
+@media screen and (max-width: 380px) {
+}
+/*---- end Responsive base screen witdh ------- */
+}
+<link rel="stylesheet" type="text/CSS" href="link_to_file/responsive.CSS" />
 nav{
 	display: flex;
 	align-items: center;
