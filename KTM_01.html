@@ -84,50 +84,36 @@
                 <div class="input-data">
                     <form id="user-detail">
 
-                        <div class="name">
-                            <label for="name">Toán : </label>
-                            <input type="text" id="user-name">
+                                                 <div class="math">
+                            <label for="math">Toán:</label>
+                            <input type="number" id="user-math">
                         </div>
-                        <div class="email">
-                            <label for="name">Văn:</label>
-                            <input type="text" id="user-email">
-                        </div>
-
-                        <label for="gender">Hạnh kiểm:</label>
-                        <div class="flex gender">
-                            <div class="male">
-                                <input type="radio" name="gender" value="Male" id="user-gender">
-                                <label for="male">Đạt
-</div>
-                            <div class="female">
-                                <input type="radio" name="gender" value="Female" id="user-gender">
-                                <label for="female">Không đạt
-                            </div>
+                        <div class="verse">
+                            <label for="verse">Văn:</label>
+                            <input type="number" id="user-verse">
                         </div>
 
-                        <div class="nation">
-                            </select>
-                        </div>
-                        <div class="flex hobby">
-                            <div class="coding">
+                        <label for="conduct">hạnh kiểm:</label>
+                        <div class="flex conduct">
+                            <div class="dat">
+                                <input type="radio" name="conduct" value="dat" id="user-conduct">
+                                <label for="conduct">Đạt</label>
                             </div>
-                          <div class="coding">
-                        
+                            <div class="kodat">
+                                <input type="radio" name="conduct" value="kodat" id="user-conduct">
+                                <label for="conduct">Không Đạt</label>
                             </div>
-                        </div>
+                      </div>
 
                         <div class="button">
                             <input type="submit" value="Kiểm tra" id="submit">
-                            <input type="reset">
+                            <input type="reset" value="Hủy">
                         </div>
                     </form>
                 </div>
 
                 <div class="output-data">
-                    <div class="content">
-                      <p class="content-name"></p>
-                      <p class="content-email"></p>
-                    </div>
+                    
                 </div>
 
             </div>
@@ -135,16 +121,25 @@
         
     </body>
     <script>
-        const form = document.getElementById('user-detail').addEventListener('submit', (e) => {
+      const form = document.getElementById('user-detail').addEventListener('submit', (e) => {
             e.preventDefault();
-            const name = document.getElementById('user-name').value;
-            document.querySelector('.content-name').textContent = `: ${name}`;
-
-            const email = document.getElementById('user-email').value;
-            document.querySelector('.content-email').textContent = `: ${email}`;
-
-            const hobbies = document.getElementsByName('hobby');
-            hobbyArray = [];
+            const math = document.getElementById('user-math').value;
+       
+            const verse = document.getElementById('user-verse').value;
+          
+            const diemtrungbinh = (Number(math) + Number(verse)) / 2;
+            console.log(diemtrungbinh)
+          
+            const conduct = document.getElementsByName('conduct');
+            conduct.forEach(conduct => {
+                if (conduct.checked == true) {
+                  if(conduct.value == 'dat' && diemtrungbinh >= 5) {
+                  document.querySelector('.output-data').textContent = 'Lên lớp';
+                  }else{
+                  document.querySelector('.output-data').textContent = 'Ở lại lớp';
+                  }
+                };
+            });
         });
     </script>
 </html>
